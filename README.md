@@ -51,6 +51,18 @@ A portfolio of focused engineering case studies designed around real operational
 
 A modern Next.js application with a documented execution plan, typed frontend architecture, deployment configuration, and product-focused implementation.
 
+### [DealCheck Pro](https://github.com/Kohronburton/dealcheck-pro)
+
+A working Excel-based residential real-estate screening model.
+
+- rental and flip strategy comparison
+- configurable investment thresholds
+- formula-driven offer ceiling
+- 25-cell rental downside matrix
+- four flip downside scenarios
+- six visible model-integrity checks
+- downloadable working workbook with documented limitations
+
 ---
 
 ## Repository context
