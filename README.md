@@ -15,7 +15,18 @@ My strongest work sits where software has to do more than look good: it has to e
 
 [Portfolio](https://kohronburton.com) · [Email](mailto:kohron@kohronjburton.com)
 
+## Start here
+
+| If you want to see… | Open this |
+|---|---|
+| A deterministic business rules engine with live proof | [Supplier Pricing Engine](https://github.com/Kohronburton/supplier-pricing-engine) · [Live demo](https://cpq.kohronburton.com/demo) |
+| A resilient full-stack logistics architecture | [Logistics Control Tower](https://github.com/Kohronburton/logistics-control-tower) |
+| A working product with formula-level audit checks | [DealCheck Pro](https://github.com/Kohronburton/dealcheck-pro) |
+| How I structure production-minded portfolio work | [Builder's Desk Labs](https://github.com/Kohronburton/builders-desk-labs) |
+
 ---
+
+
 
 ## Featured engineering work
 
