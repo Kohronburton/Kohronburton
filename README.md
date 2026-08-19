@@ -76,6 +76,18 @@ A working Excel-based residential real-estate screening model.
 
 ---
 
+## Career evolution
+
+My public GitHub history dates back to 2018. The repositories below are retained intentionally to show how my work progressed—not to present old dependencies as current production choices.
+
+| Period | Engineering focus | Representative evidence |
+|---|---|---|
+| **2019** | C#, .NET services, Xamarin, Android/iOS, Azure data access | [Existing_DotNet](https://github.com/Kohronburton/Existing_DotNet), [Cryptoquick](https://github.com/Kohronburton/Cryptoquick), [CQ-Orderbook](https://github.com/Kohronburton/CQ-Orderbook), [CryptoQuickApp](https://github.com/Kohronburton/CryptoQuickApp-Master) |
+| **Later platform work** | APIs, automation, financial applications, integrations, and full-stack product experiments | Selected original repositories remain public as historical engineering evidence |
+| **Current** | AI workflows, resilient distributed systems, deterministic business engines, logistics, SaaS, and production architecture | [Supplier Pricing Engine](https://github.com/Kohronburton/supplier-pricing-engine), [Logistics Control Tower](https://github.com/Kohronburton/logistics-control-tower), [DealCheck Pro](https://github.com/Kohronburton/dealcheck-pro) |
+
+The historical projects now explain what they demonstrate, their support status, and how I would modernize them today.
+
 ## Repository context
 
 This account includes older experiments, archived-era mobile and crypto work, tutorials, and upstream repositories retained as part of my development history.
