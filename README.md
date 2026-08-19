@@ -13,7 +13,7 @@ My strongest work sits where software has to do more than look good: it has to e
 - **Based in:** Miami, Florida
 - **Open to:** Senior, Lead, Staff, and AI/full-stack engineering opportunities
 
-[Portfolio](https://kohronburton.com) · [LinkedIn](https://www.linkedin.com/in/kohronburton) · [Email](mailto:kohron@kohronjburton.com)
+[Portfolio](https://kohronburton.com) · [Email](mailto:kohron@kohronjburton.com)
 
 ---
 
