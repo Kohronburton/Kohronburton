@@ -53,6 +53,12 @@ A modern Next.js application with a documented execution plan, typed frontend ar
 
 ---
 
+## Repository context
+
+This account includes older experiments, archived-era mobile and crypto work, tutorials, and upstream repositories retained as part of my development history.
+
+Unless a repository explicitly identifies my contribution, do not treat a fork, sample, clone, or tutorial as original authorship. My current original portfolio work is presented in the **Featured engineering work** section above and documents what is implemented, what is simulated, and what I personally designed.
+
 ## How I approach engineering
 
 ### Understand before rewriting
